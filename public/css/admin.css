@@ -1,0 +1,54 @@
+.welcome-panel {
+	padding: 50px 0;
+	background-image: url('../img/bg.jpg');
+	background-size: cover;
+	background-position: top;
+	text-align: center;
+}
+.welcome-panel .logo {
+	display: inline-block;
+	padding: 20px;
+	border-radius: 50px 0;
+	background-color: rgba(255, 255, 255, .8);
+}
+.welcome-panel p {
+	margin: 0;
+	color: rgba(255, 255, 255, .8);
+	font-size: 64px;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+.welcome-panel .name {
+	font-size: 24px;
+}
+
+.print-header {
+	width: 90%;
+	margin: 0 auto;
+}
+.print-header td {
+	text-align: center;
+	padding: 5px;
+}
+.print-header h1 {
+	font-size: 21px;
+	font-weight: bold;
+}
+.print-hr-header {
+	margin-bottom: 40px;
+}
+.print-content h3 {
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+}
+.print-iframe {
+	width: 100%;
+	min-height: 500px;
+}
+.print-sign {
+	width: 100%;
+}
